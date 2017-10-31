@@ -12,5 +12,9 @@ input {
 
 .jumbotron {
   height: 100%;
-  margin-bottom: 0;
+  margin-bottom: 0
+}
+
+.chart {
+  height: 400px;
 }
